@@ -1,39 +1,62 @@
-#Cursos de Series de tiempo con Machine Learning
+# Cursos de Series de tiempo con Machine Learning
+# Modulo 400. Aplicación con Streamlit ML Forecasting Time Series
 
-#Modulo 300. Aplicacion con Streamlit
+#                       Elaborado por: Naren Castellon
 
-#                    Elaborado por: Naren Castellon
+# Cargar las librerias 
 
-# Cargamos librerias
+# Manipulacion y tratamiento de Datos
 import numpy as np
 import pandas as pd
+
+# Desarrollo de Apps
 import streamlit as st
+
+# Modelacion
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from xgboost import XGBRegressor
+
+# Evaluar el modelo
 from sklearn.metrics import mean_squared_error
+
+# Visualizacion de datos
 import plotly.express as px
 import plotly.graph_objects as go
 
+
 # Generar datos de ventas ficticios
+
 np.random.seed(42)
-dates = pd.date_range(start='2021-01-01', periods=100, freq='M')
+
+# Generar fechas
+dates = pd.date_range(start= '2021-01-01', periods= 100, freq= 'M')
+
 sales_data = {
     'fecha': dates,
-    'ventas': np.random.randint(50, 500, size=(100,)),
-    'precio_unitario': np.random.uniform(5.0, 15.0, size=(100,)),
-    'descuento': np.random.uniform(0, 0.25, size=(100,))
+    'ventas': np.random.randint(50, 500, size = (100,)),
+    'precio_unitario': np.random.uniform(5.0, 15.0, size =(100,)),
+    'descuento': np.random.uniform(0, 0.25, size = (100,))
 }
-df_sales = pd.DataFrame(sales_data)
-df_sales['total'] = df_sales['ventas'] * df_sales['precio_unitario'] * (1 - df_sales['descuento'])
 
-# Preparar los datos para el entrenamiento
+df_sales = pd.DataFrame(sales_data)
+
+# agragar una nueva variable
+
+df_sales["total"] = df_sales['ventas'] * df_sales['precio_unitario']*(1 - df_sales['descuento'])
+
+print(df_sales)
+
+# Prepar los datos para el entrenamiento
+
 X = df_sales[['precio_unitario', 'descuento']]
 y = df_sales['ventas']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Dividir los datos en entrenamiento y prueba
+
+X_train, X_test, y_train, y_test =  train_test_split(X, y, test_size= 0.20, random_state= 42, shuffle= False)
 
 # Entrenar modelos
 model_lr = LinearRegression()
@@ -54,23 +77,17 @@ y_pred_rf = model_rf.predict(X_test)
 y_pred_knn = model_knn.predict(X_test)
 y_pred_xgb = model_xgb.predict(X_test)
 
+# Evaluar el modelo
 mse_lr = mean_squared_error(y_test, y_pred_lr)
 mse_rf = mean_squared_error(y_test, y_pred_rf)
-mse_knn = mean_squared_error(y_test, y_pred_knn)
-mse_xgb = mean_squared_error(y_test, y_pred_xgb)
 
-# Mostrar las métricas de los modelos
-#st.write("Linear Regression MSE:", mse_lr)
-#st.write("Random Forest MSE:", mse_rf)
-#st.write("KNN MSE:", mse_knn)
-#st.write("XGBoost MSE:", mse_xgb)
+#print("Modelo lineal", mse_lr)
+# print("Modelo Ensemble", mse_rf)
 
 # Análisis de características para Random Forest y XGBoost
 importance_rf = model_rf.feature_importances_
 importance_xgb = model_xgb.feature_importances_
 features = X.columns
-
-## ----------------------
 
 # Título de la aplicación
 st.title('Análisis de Ventas con Machine Learning')
@@ -80,7 +97,7 @@ st.subheader('Datos de Ventas')
 st.write(df_sales.head())
 
 # Selección del modelo
-model_choice = st.sidebar.selectbox('Selecciona el Modelo de ML', ['Linear Regression', 'Random Forest', 'KNN', 'XGBoost'])
+model_choice = st.sidebar.selectbox('Selecciona el Modelo de ML', ['Regresion Lineal', 'Random Forest', 'KNN', 'XGBoost'])
 
 # Horizonte del pronóstico
 horizonte = st.sidebar.slider('Horizonte del Pronóstico (meses)', min_value=1, max_value = 60, value = 12)
@@ -112,7 +129,7 @@ descuento = st.sidebar.slider('Descuento', min_value=0.0, max_value=0.25, step=0
 
 # Predicción
 if st.button('Predecir Ventas'):
-    if model_choice == 'Linear Regression':
+    if model_choice == 'Regresion Lineal':
         ventas_pred = model_lr.predict([[precio_unitario, descuento]])[0]
     elif model_choice == 'Random Forest':
         ventas_pred = model_rf.predict([[precio_unitario, descuento]])[0]
@@ -131,7 +148,7 @@ st.write(future_data)
 st.subheader('Tendencia de Ventas con Pronósticos')
 fig_trend = go.Figure()
 fig_trend.add_trace(go.Scatter(x=df_sales['fecha'], y=df_sales['ventas'], mode='lines', name='Ventas Reales'))
-if model_choice == 'Linear Regression':
+if model_choice == 'Regresion Lineal':
     fig_trend.add_trace(go.Scatter(x=future_data['fecha'], y=future_data['ventas_lr'], mode='lines', name='Pronóstico LR', ))
 elif model_choice == 'Random Forest':
     fig_trend.add_trace(go.Scatter(x=future_data['fecha'], y=future_data['ventas_rf'], mode='lines', name='Pronóstico RF', ))
