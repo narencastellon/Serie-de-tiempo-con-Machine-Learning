@@ -1,0 +1,11 @@
+.main > div {
+    padding-left: 7rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+}
+
+.stTabs [data-baseweb="tab-list"] button [data-testid="stMarkdownContainer"] p {
+    font-size:1.3rem; 
+    }
+
+

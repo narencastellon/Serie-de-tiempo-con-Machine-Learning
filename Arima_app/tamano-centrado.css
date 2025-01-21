@@ -1,0 +1,4 @@
+/* Clase personalizada para centrar y ajustar el tamaño del texto */ 
+.centered-text { text-align: center; 
+    font-size: 24px; /* Ajusta el tamaño del texto según tus necesidades */ 
+}
