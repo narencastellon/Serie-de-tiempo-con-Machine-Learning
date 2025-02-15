@@ -181,3 +181,7 @@ elif model_choice == 'XGBoost':
     st.plotly_chart(fig_xgb)
 else:
     st.write("El análisis de características solo está disponible para Random Forest y XGBoost.")
+
+# Firma en el sidebar 
+st.sidebar.markdown("---") 
+st.sidebar.markdown("### by: Naren Castellon")
