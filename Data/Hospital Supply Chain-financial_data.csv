@@ -1,0 +1,501 @@
+Date,Expense_Category,Amount,Description
+2024-10-01,Staffing,29391.86,Surgical masks
+2024-10-02,Supplies,47757.71,Surgical masks
+2024-10-03,Supplies,43996.6,Ventilators
+2024-10-04,Supplies,27908.42,Surgeons' salaries
+2024-10-05,Equipment,39719.6,Ventilators
+2024-10-06,Equipment,11695.0,Surgical masks
+2024-10-07,Supplies,40050.2,Surgeons' salaries
+2024-10-08,Staffing,48832.91,Surgical masks
+2024-10-09,Supplies,11815.93,Surgeons' salaries
+2024-10-10,Staffing,40394.89,Surgical masks
+2024-10-11,Staffing,13225.9,Ventilators
+2024-10-12,Equipment,10556.01,Surgical masks
+2024-10-13,Staffing,6831.24,Surgical masks
+2024-10-14,Staffing,22377.3,Surgeons' salaries
+2024-10-15,Staffing,27914.24,Surgeons' salaries
+2024-10-16,Equipment,15283.73,Surgical masks
+2024-10-17,Staffing,16745.3,Surgical masks
+2024-10-18,Supplies,7309.99,Surgical masks
+2024-10-19,Equipment,48677.96,Surgical masks
+2024-10-20,Supplies,34857.37,Surgical masks
+2024-10-21,Equipment,4977.66,Surgical masks
+2024-10-22,Equipment,34457.6,Ventilators
+2024-10-23,Staffing,32647.46,Surgeons' salaries
+2024-10-24,Equipment,43297.96,Surgeons' salaries
+2024-10-25,Supplies,35618.21,Surgical masks
+2024-10-26,Staffing,2171.42,Surgeons' salaries
+2024-10-27,Supplies,30270.13,Surgical masks
+2024-10-28,Staffing,1167.22,Surgeons' salaries
+2024-10-29,Supplies,16659.46,Ventilators
+2024-10-30,Staffing,15358.73,Surgeons' salaries
+2024-10-31,Equipment,5419.23,Surgeons' salaries
+2024-11-01,Equipment,3216.23,Surgical masks
+2024-11-02,Equipment,9810.33,Surgeons' salaries
+2024-11-03,Equipment,41617.01,Ventilators
+2024-11-04,Equipment,13176.43,Surgeons' salaries
+2024-11-05,Staffing,10785.51,Surgeons' salaries
+2024-11-06,Supplies,48031.45,Surgeons' salaries
+2024-11-07,Supplies,6643.2,Ventilators
+2024-11-08,Equipment,15533.64,Ventilators
+2024-11-09,Equipment,40872.45,Ventilators
+2024-11-10,Equipment,32030.48,Ventilators
+2024-11-11,Supplies,4412.16,Surgical masks
+2024-11-12,Equipment,46619.21,Surgical masks
+2024-11-13,Supplies,14628.11,Surgical masks
+2024-11-14,Staffing,20106.14,Surgical masks
+2024-11-15,Supplies,29215.87,Surgeons' salaries
+2024-11-16,Equipment,29420.48,Surgical masks
+2024-11-17,Staffing,13942.61,Surgeons' salaries
+2024-11-18,Supplies,38805.05,Surgeons' salaries
+2024-11-19,Equipment,17543.17,Surgical masks
+2024-11-20,Equipment,37676.46,Ventilators
+2024-11-21,Supplies,8281.9,Surgical masks
+2024-11-22,Supplies,21520.45,Ventilators
+2024-11-23,Equipment,2237.88,Surgeons' salaries
+2024-11-24,Staffing,19134.91,Surgeons' salaries
+2024-11-25,Staffing,1862.22,Surgeons' salaries
+2024-11-26,Equipment,39884.35,Surgical masks
+2024-11-27,Staffing,14181.26,Surgical masks
+2024-11-28,Equipment,39279.18,Ventilators
+2024-11-29,Staffing,40032.02,Ventilators
+2024-11-30,Supplies,4995.64,Ventilators
+2024-12-01,Staffing,26361.23,Surgical masks
+2024-12-02,Equipment,6572.09,Surgeons' salaries
+2024-12-03,Equipment,48903.85,Ventilators
+2024-12-04,Supplies,37068.59,Ventilators
+2024-12-05,Supplies,6905.59,Surgeons' salaries
+2024-12-06,Supplies,25940.8,Ventilators
+2024-12-07,Supplies,49581.16,Surgeons' salaries
+2024-12-08,Staffing,40916.13,Surgical masks
+2024-12-09,Supplies,36718.25,Surgeons' salaries
+2024-12-10,Supplies,43977.28,Surgeons' salaries
+2024-12-11,Supplies,48070.86,Surgeons' salaries
+2024-12-12,Supplies,32641.03,Surgeons' salaries
+2024-12-13,Equipment,25335.02,Surgeons' salaries
+2024-12-14,Staffing,15321.84,Ventilators
+2024-12-15,Supplies,11911.87,Surgeons' salaries
+2024-12-16,Equipment,11875.07,Surgical masks
+2024-12-17,Staffing,22980.35,Surgeons' salaries
+2024-12-18,Staffing,22171.59,Surgeons' salaries
+2024-12-19,Supplies,45073.23,Surgeons' salaries
+2024-12-20,Supplies,32605.69,Surgeons' salaries
+2024-12-21,Staffing,3614.58,Ventilators
+2024-12-22,Equipment,3699.26,Surgical masks
+2024-12-23,Supplies,31971.98,Surgeons' salaries
+2024-12-24,Supplies,3350.19,Ventilators
+2024-12-25,Staffing,45867.95,Surgical masks
+2024-12-26,Supplies,5209.14,Ventilators
+2024-12-27,Equipment,3786.27,Surgical masks
+2024-12-28,Supplies,36689.63,Ventilators
+2024-12-29,Staffing,24109.25,Ventilators
+2024-12-30,Supplies,10209.34,Surgical masks
+2024-12-31,Staffing,18183.68,Surgeons' salaries
+2025-01-01,Supplies,30087.7,Surgical masks
+2025-01-02,Supplies,3820.52,Ventilators
+2025-01-03,Equipment,40017.07,Surgical masks
+2025-01-04,Staffing,1819.12,Surgical masks
+2025-01-05,Staffing,22590.72,Surgical masks
+2025-01-06,Supplies,32733.16,Ventilators
+2025-01-07,Supplies,44099.68,Ventilators
+2025-01-08,Supplies,21702.34,Surgeons' salaries
+2025-01-09,Staffing,21632.64,Ventilators
+2025-01-10,Supplies,21338.27,Surgeons' salaries
+2025-01-11,Supplies,47569.57,Ventilators
+2025-01-12,Equipment,30030.24,Surgeons' salaries
+2025-01-13,Staffing,15276.69,Surgical masks
+2025-01-14,Supplies,19548.24,Ventilators
+2025-01-15,Staffing,18257.29,Surgeons' salaries
+2025-01-16,Supplies,10248.74,Ventilators
+2025-01-17,Staffing,26133.39,Surgeons' salaries
+2025-01-18,Staffing,27148.06,Surgical masks
+2025-01-19,Supplies,6898.6,Ventilators
+2025-01-20,Staffing,19548.25,Surgical masks
+2025-01-21,Staffing,30214.12,Surgical masks
+2025-01-22,Equipment,21942.75,Surgical masks
+2025-01-23,Staffing,41454.28,Surgical masks
+2025-01-24,Equipment,49183.35,Surgeons' salaries
+2025-01-25,Supplies,13040.43,Ventilators
+2025-01-26,Supplies,11808.08,Surgical masks
+2025-01-27,Supplies,15252.39,Surgeons' salaries
+2025-01-28,Staffing,43364.45,Surgeons' salaries
+2025-01-29,Staffing,47007.66,Surgical masks
+2025-01-30,Staffing,22309.04,Surgeons' salaries
+2025-01-31,Supplies,42342.92,Surgeons' salaries
+2025-02-01,Equipment,17488.51,Surgeons' salaries
+2025-02-02,Equipment,44461.59,Ventilators
+2025-02-03,Equipment,15784.4,Ventilators
+2025-02-04,Supplies,17774.03,Surgeons' salaries
+2025-02-05,Equipment,42981.38,Surgical masks
+2025-02-06,Equipment,21075.29,Surgical masks
+2025-02-07,Equipment,39385.39,Surgeons' salaries
+2025-02-08,Supplies,47804.78,Ventilators
+2025-02-09,Staffing,3349.23,Surgeons' salaries
+2025-02-10,Equipment,34363.0,Surgical masks
+2025-02-11,Equipment,12187.72,Ventilators
+2025-02-12,Staffing,6181.89,Surgical masks
+2025-02-13,Staffing,17743.49,Surgical masks
+2025-02-14,Supplies,21779.59,Surgeons' salaries
+2025-02-15,Staffing,13253.42,Ventilators
+2025-02-16,Supplies,17210.3,Surgeons' salaries
+2025-02-17,Equipment,15098.59,Surgical masks
+2025-02-18,Equipment,19350.47,Ventilators
+2025-02-19,Supplies,12614.34,Ventilators
+2025-02-20,Supplies,25973.01,Ventilators
+2025-02-21,Equipment,14156.76,Ventilators
+2025-02-22,Staffing,30910.62,Surgical masks
+2025-02-23,Equipment,13768.11,Surgical masks
+2025-02-24,Supplies,37285.5,Surgeons' salaries
+2025-02-25,Equipment,28947.21,Surgeons' salaries
+2025-02-26,Staffing,43512.91,Surgeons' salaries
+2025-02-27,Staffing,47882.85,Surgeons' salaries
+2025-02-28,Supplies,34277.5,Surgeons' salaries
+2025-03-01,Staffing,1809.78,Surgeons' salaries
+2025-03-02,Equipment,28466.79,Surgeons' salaries
+2025-03-03,Supplies,34027.42,Ventilators
+2025-03-04,Staffing,27796.8,Surgical masks
+2025-03-05,Supplies,46119.88,Surgeons' salaries
+2025-03-06,Staffing,4111.9,Surgical masks
+2025-03-07,Supplies,20876.48,Surgeons' salaries
+2025-03-08,Staffing,29550.49,Surgical masks
+2025-03-09,Supplies,27390.75,Surgical masks
+2025-03-10,Supplies,26181.74,Ventilators
+2025-03-11,Staffing,21031.37,Ventilators
+2025-03-12,Supplies,22079.89,Ventilators
+2025-03-13,Staffing,29840.48,Surgeons' salaries
+2025-03-14,Supplies,25249.41,Surgeons' salaries
+2025-03-15,Staffing,39304.9,Surgeons' salaries
+2025-03-16,Supplies,14816.44,Ventilators
+2025-03-17,Staffing,2516.64,Surgical masks
+2025-03-18,Staffing,43839.1,Surgical masks
+2025-03-19,Equipment,43313.95,Surgical masks
+2025-03-20,Equipment,8722.5,Surgeons' salaries
+2025-03-21,Supplies,2952.24,Surgeons' salaries
+2025-03-22,Supplies,20707.92,Surgeons' salaries
+2025-03-23,Equipment,26776.3,Surgical masks
+2025-03-24,Staffing,10650.13,Ventilators
+2025-03-25,Supplies,22617.38,Surgical masks
+2025-03-26,Staffing,9765.69,Ventilators
+2025-03-27,Staffing,29211.54,Ventilators
+2025-03-28,Supplies,23534.35,Ventilators
+2025-03-29,Supplies,5422.12,Surgeons' salaries
+2025-03-30,Staffing,13531.44,Surgical masks
+2025-03-31,Staffing,36896.98,Ventilators
+2025-04-01,Supplies,41294.49,Ventilators
+2025-04-02,Supplies,14634.09,Ventilators
+2025-04-03,Staffing,24870.99,Surgeons' salaries
+2025-04-04,Staffing,7255.92,Ventilators
+2025-04-05,Staffing,40313.05,Ventilators
+2025-04-06,Supplies,8204.47,Surgical masks
+2025-04-07,Staffing,32380.26,Surgeons' salaries
+2025-04-08,Supplies,32750.57,Ventilators
+2025-04-09,Equipment,13039.65,Surgical masks
+2025-04-10,Staffing,22413.84,Surgeons' salaries
+2025-04-11,Staffing,4931.67,Surgical masks
+2025-04-12,Supplies,21185.01,Ventilators
+2025-04-13,Supplies,10242.93,Surgeons' salaries
+2025-04-14,Equipment,48997.62,Surgical masks
+2025-04-15,Supplies,28058.47,Ventilators
+2025-04-16,Equipment,10532.67,Surgical masks
+2025-04-17,Staffing,39709.33,Ventilators
+2025-04-18,Staffing,29169.69,Surgical masks
+2025-04-19,Supplies,34198.43,Surgical masks
+2025-04-20,Supplies,44688.13,Ventilators
+2025-04-21,Equipment,34982.61,Surgical masks
+2025-04-22,Supplies,10783.56,Surgical masks
+2025-04-23,Staffing,47766.88,Surgical masks
+2025-04-24,Staffing,43059.46,Ventilators
+2025-04-25,Supplies,25583.31,Surgeons' salaries
+2025-04-26,Staffing,32378.36,Surgical masks
+2025-04-27,Staffing,36954.08,Surgeons' salaries
+2025-04-28,Staffing,41441.71,Surgical masks
+2025-04-29,Staffing,10781.04,Ventilators
+2025-04-30,Supplies,25201.22,Ventilators
+2025-05-01,Supplies,33168.49,Surgeons' salaries
+2025-05-02,Supplies,49424.73,Surgical masks
+2025-05-03,Equipment,10040.92,Ventilators
+2025-05-04,Staffing,7584.08,Surgical masks
+2025-05-05,Supplies,4097.52,Surgical masks
+2025-05-06,Staffing,5613.99,Surgical masks
+2025-05-07,Staffing,42827.85,Ventilators
+2025-05-08,Supplies,2549.0,Surgeons' salaries
+2025-05-09,Supplies,40465.03,Surgical masks
+2025-05-10,Supplies,6614.41,Surgical masks
+2025-05-11,Supplies,12686.57,Ventilators
+2025-05-12,Equipment,30023.3,Surgical masks
+2025-05-13,Supplies,40897.32,Surgical masks
+2025-05-14,Equipment,44779.36,Surgeons' salaries
+2025-05-15,Equipment,44189.16,Surgical masks
+2025-05-16,Staffing,4445.29,Surgeons' salaries
+2025-05-17,Equipment,4876.19,Surgical masks
+2025-05-18,Staffing,23438.23,Surgical masks
+2025-05-19,Equipment,33267.4,Surgeons' salaries
+2025-05-20,Supplies,45133.84,Ventilators
+2025-05-21,Staffing,3826.63,Ventilators
+2025-05-22,Staffing,18659.58,Surgical masks
+2025-05-23,Supplies,45376.29,Surgeons' salaries
+2025-05-24,Staffing,38963.04,Ventilators
+2025-05-25,Equipment,41203.91,Ventilators
+2025-05-26,Staffing,12541.8,Ventilators
+2025-05-27,Staffing,34480.61,Ventilators
+2025-05-28,Staffing,29960.63,Ventilators
+2025-05-29,Equipment,32746.13,Surgical masks
+2025-05-30,Equipment,18636.52,Ventilators
+2025-05-31,Supplies,22097.74,Surgical masks
+2025-06-01,Equipment,44263.65,Ventilators
+2025-06-02,Equipment,17272.97,Surgeons' salaries
+2025-06-03,Supplies,34869.96,Ventilators
+2025-06-04,Staffing,23691.52,Ventilators
+2025-06-05,Equipment,20175.13,Ventilators
+2025-06-06,Staffing,27201.68,Surgeons' salaries
+2025-06-07,Supplies,23396.71,Ventilators
+2025-06-08,Equipment,3689.62,Ventilators
+2025-06-09,Staffing,6518.61,Surgeons' salaries
+2025-06-10,Supplies,34616.75,Surgeons' salaries
+2025-06-11,Equipment,38928.36,Surgeons' salaries
+2025-06-12,Equipment,31157.69,Surgical masks
+2025-06-13,Equipment,21888.9,Surgical masks
+2025-06-14,Equipment,36064.5,Surgeons' salaries
+2025-06-15,Supplies,37863.75,Surgeons' salaries
+2025-06-16,Equipment,43985.57,Surgical masks
+2025-06-17,Staffing,20052.08,Surgeons' salaries
+2025-06-18,Equipment,10688.96,Surgeons' salaries
+2025-06-19,Equipment,11789.16,Ventilators
+2025-06-20,Staffing,33066.42,Surgical masks
+2025-06-21,Equipment,27005.81,Surgical masks
+2025-06-22,Supplies,37684.95,Surgical masks
+2025-06-23,Equipment,4522.5,Surgical masks
+2025-06-24,Supplies,19888.34,Surgeons' salaries
+2025-06-25,Supplies,34556.42,Surgeons' salaries
+2025-06-26,Equipment,37314.24,Surgical masks
+2025-06-27,Equipment,19415.23,Surgical masks
+2025-06-28,Equipment,2452.39,Surgeons' salaries
+2025-06-29,Supplies,7961.29,Ventilators
+2025-06-30,Staffing,1162.91,Surgeons' salaries
+2025-07-01,Supplies,3829.4,Surgeons' salaries
+2025-07-02,Equipment,35474.05,Surgeons' salaries
+2025-07-03,Equipment,20960.17,Surgeons' salaries
+2025-07-04,Staffing,31462.33,Surgical masks
+2025-07-05,Supplies,19467.98,Ventilators
+2025-07-06,Equipment,33262.4,Surgeons' salaries
+2025-07-07,Supplies,45986.95,Surgeons' salaries
+2025-07-08,Staffing,25501.6,Surgeons' salaries
+2025-07-09,Staffing,9805.39,Surgeons' salaries
+2025-07-10,Supplies,41251.12,Surgeons' salaries
+2025-07-11,Supplies,12018.49,Ventilators
+2025-07-12,Staffing,1705.35,Surgical masks
+2025-07-13,Supplies,17451.87,Surgeons' salaries
+2025-07-14,Supplies,36465.86,Surgical masks
+2025-07-15,Supplies,16945.76,Surgeons' salaries
+2025-07-16,Staffing,49511.97,Surgical masks
+2025-07-17,Equipment,25772.83,Surgical masks
+2025-07-18,Equipment,4553.95,Surgical masks
+2025-07-19,Supplies,16076.99,Surgeons' salaries
+2025-07-20,Staffing,16084.6,Surgeons' salaries
+2025-07-21,Supplies,27867.61,Surgeons' salaries
+2025-07-22,Equipment,5042.8,Surgeons' salaries
+2025-07-23,Equipment,47542.04,Surgical masks
+2025-07-24,Supplies,21328.92,Surgeons' salaries
+2025-07-25,Supplies,47900.99,Ventilators
+2025-07-26,Supplies,47060.09,Ventilators
+2025-07-27,Equipment,14305.92,Surgical masks
+2025-07-28,Staffing,15337.58,Surgeons' salaries
+2025-07-29,Equipment,32172.39,Surgeons' salaries
+2025-07-30,Staffing,19853.07,Surgical masks
+2025-07-31,Staffing,17201.77,Ventilators
+2025-08-01,Supplies,32903.58,Surgical masks
+2025-08-02,Staffing,12732.9,Surgeons' salaries
+2025-08-03,Equipment,10955.76,Surgical masks
+2025-08-04,Equipment,15669.75,Ventilators
+2025-08-05,Supplies,30244.03,Ventilators
+2025-08-06,Staffing,10089.59,Ventilators
+2025-08-07,Equipment,5487.64,Surgeons' salaries
+2025-08-08,Equipment,27027.37,Surgeons' salaries
+2025-08-09,Supplies,30882.56,Surgical masks
+2025-08-10,Supplies,13717.57,Ventilators
+2025-08-11,Staffing,38587.17,Surgical masks
+2025-08-12,Staffing,4428.27,Ventilators
+2025-08-13,Supplies,35940.29,Surgeons' salaries
+2025-08-14,Supplies,20609.4,Ventilators
+2025-08-15,Staffing,20845.98,Surgical masks
+2025-08-16,Staffing,24253.79,Surgical masks
+2025-08-17,Supplies,48981.12,Ventilators
+2025-08-18,Supplies,39939.36,Surgeons' salaries
+2025-08-19,Equipment,10523.24,Ventilators
+2025-08-20,Supplies,9658.43,Surgeons' salaries
+2025-08-21,Equipment,37231.25,Surgeons' salaries
+2025-08-22,Supplies,16756.97,Surgeons' salaries
+2025-08-23,Supplies,39785.63,Ventilators
+2025-08-24,Supplies,26855.36,Surgical masks
+2025-08-25,Supplies,29585.7,Ventilators
+2025-08-26,Equipment,12298.3,Surgical masks
+2025-08-27,Staffing,17898.98,Surgical masks
+2025-08-28,Staffing,13774.74,Surgeons' salaries
+2025-08-29,Staffing,41581.27,Surgical masks
+2025-08-30,Equipment,19079.02,Ventilators
+2025-08-31,Supplies,43443.8,Ventilators
+2025-09-01,Staffing,47510.81,Surgeons' salaries
+2025-09-02,Supplies,22439.89,Surgical masks
+2025-09-03,Supplies,41719.0,Surgical masks
+2025-09-04,Equipment,47826.79,Surgical masks
+2025-09-05,Equipment,15882.75,Ventilators
+2025-09-06,Equipment,31923.79,Surgeons' salaries
+2025-09-07,Staffing,43453.14,Ventilators
+2025-09-08,Supplies,19902.74,Surgeons' salaries
+2025-09-09,Staffing,28629.71,Ventilators
+2025-09-10,Supplies,9386.58,Surgical masks
+2025-09-11,Staffing,49266.87,Ventilators
+2025-09-12,Supplies,25035.6,Surgical masks
+2025-09-13,Supplies,22674.97,Surgeons' salaries
+2025-09-14,Supplies,26936.89,Ventilators
+2025-09-15,Staffing,27455.67,Surgeons' salaries
+2025-09-16,Staffing,39029.13,Surgeons' salaries
+2025-09-17,Staffing,35041.69,Surgeons' salaries
+2025-09-18,Staffing,44459.52,Ventilators
+2025-09-19,Staffing,38495.09,Surgical masks
+2025-09-20,Equipment,3148.4,Surgical masks
+2025-09-21,Staffing,12424.42,Surgeons' salaries
+2025-09-22,Equipment,34524.9,Surgical masks
+2025-09-23,Supplies,42381.43,Surgical masks
+2025-09-24,Equipment,24778.96,Surgical masks
+2025-09-25,Staffing,36415.77,Ventilators
+2025-09-26,Supplies,26527.03,Surgeons' salaries
+2025-09-27,Staffing,20336.74,Ventilators
+2025-09-28,Supplies,15578.09,Surgeons' salaries
+2025-09-29,Equipment,3623.57,Surgical masks
+2025-09-30,Staffing,8908.52,Surgeons' salaries
+2025-10-01,Supplies,15982.22,Ventilators
+2025-10-02,Staffing,22410.66,Surgical masks
+2025-10-03,Supplies,30947.24,Ventilators
+2025-10-04,Supplies,8175.27,Surgical masks
+2025-10-05,Equipment,33557.42,Surgeons' salaries
+2025-10-06,Staffing,7655.1,Surgeons' salaries
+2025-10-07,Equipment,35020.54,Ventilators
+2025-10-08,Supplies,45792.58,Ventilators
+2025-10-09,Supplies,11921.27,Surgical masks
+2025-10-10,Supplies,16835.46,Surgical masks
+2025-10-11,Staffing,11166.04,Surgeons' salaries
+2025-10-12,Supplies,4025.81,Surgeons' salaries
+2025-10-13,Equipment,14584.19,Surgeons' salaries
+2025-10-14,Equipment,25721.36,Surgeons' salaries
+2025-10-15,Staffing,13809.28,Surgical masks
+2025-10-16,Supplies,41515.38,Surgical masks
+2025-10-17,Supplies,1133.11,Surgeons' salaries
+2025-10-18,Supplies,30116.67,Surgical masks
+2025-10-19,Equipment,11098.1,Surgeons' salaries
+2025-10-20,Staffing,30797.49,Surgical masks
+2025-10-21,Equipment,42772.7,Surgeons' salaries
+2025-10-22,Supplies,20378.33,Surgeons' salaries
+2025-10-23,Staffing,24263.85,Surgical masks
+2025-10-24,Equipment,48585.22,Surgeons' salaries
+2025-10-25,Supplies,20046.24,Ventilators
+2025-10-26,Staffing,30795.34,Surgical masks
+2025-10-27,Equipment,16172.7,Ventilators
+2025-10-28,Supplies,39866.29,Ventilators
+2025-10-29,Staffing,21054.92,Surgeons' salaries
+2025-10-30,Equipment,42478.14,Surgical masks
+2025-10-31,Supplies,27272.81,Surgeons' salaries
+2025-11-01,Staffing,5161.7,Surgeons' salaries
+2025-11-02,Supplies,16679.01,Surgeons' salaries
+2025-11-03,Supplies,13154.51,Surgical masks
+2025-11-04,Staffing,32675.84,Surgeons' salaries
+2025-11-05,Supplies,41674.24,Surgical masks
+2025-11-06,Staffing,48303.45,Surgeons' salaries
+2025-11-07,Staffing,45026.62,Surgeons' salaries
+2025-11-08,Staffing,24523.45,Ventilators
+2025-11-09,Equipment,18952.69,Surgical masks
+2025-11-10,Supplies,18592.28,Ventilators
+2025-11-11,Supplies,48159.5,Surgical masks
+2025-11-12,Supplies,33810.58,Surgical masks
+2025-11-13,Staffing,20062.15,Ventilators
+2025-11-14,Staffing,34176.91,Surgical masks
+2025-11-15,Staffing,14264.74,Surgical masks
+2025-11-16,Equipment,18430.59,Surgical masks
+2025-11-17,Equipment,34877.12,Ventilators
+2025-11-18,Supplies,13572.08,Surgeons' salaries
+2025-11-19,Supplies,13143.19,Surgical masks
+2025-11-20,Staffing,9241.56,Surgeons' salaries
+2025-11-21,Supplies,20735.75,Surgeons' salaries
+2025-11-22,Staffing,22411.69,Surgical masks
+2025-11-23,Supplies,47934.47,Surgical masks
+2025-11-24,Staffing,13978.14,Surgeons' salaries
+2025-11-25,Supplies,3053.24,Surgeons' salaries
+2025-11-26,Equipment,25577.9,Ventilators
+2025-11-27,Supplies,5682.12,Ventilators
+2025-11-28,Supplies,14619.83,Surgical masks
+2025-11-29,Equipment,28989.14,Surgical masks
+2025-11-30,Equipment,12606.77,Ventilators
+2025-12-01,Supplies,20542.79,Ventilators
+2025-12-02,Equipment,46595.62,Surgical masks
+2025-12-03,Equipment,3975.18,Surgeons' salaries
+2025-12-04,Equipment,22434.9,Ventilators
+2025-12-05,Staffing,32332.02,Surgeons' salaries
+2025-12-06,Staffing,29552.08,Ventilators
+2025-12-07,Equipment,33360.5,Ventilators
+2025-12-08,Staffing,3242.27,Ventilators
+2025-12-09,Equipment,13238.17,Surgeons' salaries
+2025-12-10,Supplies,2632.97,Surgeons' salaries
+2025-12-11,Supplies,33218.93,Ventilators
+2025-12-12,Supplies,21615.77,Surgeons' salaries
+2025-12-13,Supplies,29568.36,Surgeons' salaries
+2025-12-14,Supplies,24024.58,Surgeons' salaries
+2025-12-15,Equipment,48300.42,Surgical masks
+2025-12-16,Equipment,7667.08,Surgeons' salaries
+2025-12-17,Supplies,27468.91,Surgical masks
+2025-12-18,Equipment,22293.66,Surgical masks
+2025-12-19,Supplies,22239.9,Surgical masks
+2025-12-20,Staffing,5259.19,Surgical masks
+2025-12-21,Equipment,27812.06,Surgical masks
+2025-12-22,Supplies,37963.07,Surgeons' salaries
+2025-12-23,Supplies,33222.6,Surgeons' salaries
+2025-12-24,Equipment,12370.69,Ventilators
+2025-12-25,Supplies,11705.61,Ventilators
+2025-12-26,Equipment,42508.26,Ventilators
+2025-12-27,Staffing,44828.5,Surgeons' salaries
+2025-12-28,Equipment,42097.25,Surgeons' salaries
+2025-12-29,Equipment,3686.26,Surgeons' salaries
+2025-12-30,Staffing,14306.25,Surgeons' salaries
+2025-12-31,Staffing,19674.11,Surgical masks
+2026-01-01,Staffing,5587.8,Ventilators
+2026-01-02,Supplies,22635.11,Ventilators
+2026-01-03,Staffing,24151.81,Surgical masks
+2026-01-04,Equipment,21182.05,Surgeons' salaries
+2026-01-05,Supplies,42350.29,Ventilators
+2026-01-06,Supplies,24958.21,Surgical masks
+2026-01-07,Staffing,37622.62,Ventilators
+2026-01-08,Staffing,36418.42,Ventilators
+2026-01-09,Staffing,12065.13,Surgeons' salaries
+2026-01-10,Supplies,29759.46,Surgeons' salaries
+2026-01-11,Staffing,3617.13,Surgeons' salaries
+2026-01-12,Staffing,25439.95,Surgeons' salaries
+2026-01-13,Staffing,6779.86,Surgical masks
+2026-01-14,Staffing,1110.27,Surgical masks
+2026-01-15,Staffing,19557.08,Surgical masks
+2026-01-16,Supplies,48194.2,Surgeons' salaries
+2026-01-17,Supplies,34490.84,Ventilators
+2026-01-18,Equipment,18122.84,Ventilators
+2026-01-19,Equipment,35992.92,Surgical masks
+2026-01-20,Equipment,28402.54,Surgeons' salaries
+2026-01-21,Supplies,33327.75,Surgical masks
+2026-01-22,Staffing,6793.67,Surgeons' salaries
+2026-01-23,Staffing,24031.97,Surgeons' salaries
+2026-01-24,Staffing,39635.14,Surgeons' salaries
+2026-01-25,Equipment,19808.64,Surgeons' salaries
+2026-01-26,Supplies,47816.63,Surgeons' salaries
+2026-01-27,Equipment,30329.71,Ventilators
+2026-01-28,Equipment,47158.82,Ventilators
+2026-01-29,Equipment,28983.58,Surgeons' salaries
+2026-01-30,Staffing,11301.0,Ventilators
+2026-01-31,Staffing,13808.29,Ventilators
+2026-02-01,Staffing,29422.32,Ventilators
+2026-02-02,Equipment,41639.54,Ventilators
+2026-02-03,Equipment,10555.19,Surgical masks
+2026-02-04,Supplies,27712.73,Ventilators
+2026-02-05,Staffing,18171.24,Surgeons' salaries
+2026-02-06,Equipment,41594.51,Surgical masks
+2026-02-07,Supplies,38501.23,Surgeons' salaries
+2026-02-08,Equipment,3001.73,Surgical masks
+2026-02-09,Equipment,11394.14,Surgical masks
+2026-02-10,Equipment,30342.12,Surgical masks
+2026-02-11,Supplies,42302.76,Surgeons' salaries
+2026-02-12,Supplies,31518.61,Surgical masks
