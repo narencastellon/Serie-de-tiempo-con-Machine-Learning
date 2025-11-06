@@ -6,7 +6,6 @@ import pandas as pd
 
 
 
-
 app = Flask(__name__)
 model = pickle.load(open("c2_flight_rf.pkl", "rb"))
 
@@ -229,7 +228,6 @@ def predict():
 
 
     return render_template("home.html")
-
 
 
 

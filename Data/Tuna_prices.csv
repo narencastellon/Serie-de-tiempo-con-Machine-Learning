@@ -1,0 +1,2017 @@
+year,month,value,species,state,fleet,measure
+2003,1,89.968,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,2,96.382,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,3,98.757,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,4,131.715,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,5,196.357,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,6,66.803,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,7,134.185,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,8,101.909,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,9,139.152,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,10,121.897,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,11,111.002,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,12,132.376,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,1,82.447,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,2,76.306,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,3,85.902,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,4,157.316,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,5,181.536,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,6,213.551,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,7,535.101,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,8,334.017,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,9,164.313,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,10,150.193,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,11,129.353,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2004,12,162.788,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,1,91.414,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,2,75.289,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,3,95.893,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,4,181.936,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,5,323.712,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,6,454.548,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,7,514.677,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,8,248.353,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,9,236.574,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,10,159.369,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,11,179.156,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2005,12,156.698,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,1,110.747,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,2,98.305,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,3,118.026,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,4,161.265,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,5,248.12,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,6,323.34,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,7,410.42,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,8,350.131,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,9,253.523,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,10,227.221,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,11,165.306,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2006,12,204.865,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,1,135.035,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,2,128.29,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,3,132.695,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,4,180.877,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,5,357.898,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,6,501.911,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,7,500.035,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,8,320.873,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,9,253.732,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,10,224.329,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,11,244.756,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2007,12,339.657,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,1,167.929,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,2,147.094,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,3,205.542,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,4,243.401,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,5,315.923,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,6,750.202,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,7,411.115,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,8,200.627,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,9,201.327,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,10,208.681,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,11,215.394,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2008,12,247.338,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,1,148.04,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,2,128.502,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,3,188.471,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,4,157.388,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,5,197.929,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,6,305.812,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,7,295.468,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,8,389.017,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,9,194.662,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,10,179.59,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,11,182.366,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2009,12,327.798,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,1,228.23,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,2,259.37,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,3,291.935,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,4,273.352,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,5,290.654,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,6,408.855,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,7,238.859,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,8,190.855,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,9,153.483,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,10,174.784,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,11,186.972,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2010,12,313.211,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,1,202.003,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,2,179.589,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,3,162.657,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,4,185.391,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,5,286.323,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,6,551.391,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,7,402.457,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,8,296.33,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,9,178.636,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,10,156.244,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,11,167.851,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2011,12,301.201,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,1,200.65,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,2,203.743,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,3,187.11,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,4,170.392,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,5,252.031,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,6,336.582,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,7,267.004,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,8,241.454,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,9,150.843,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,10,175.948,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,11,189.158,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2012,12,291.601,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,1,176.054,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,2,142.46,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,3,157.447,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,4,167.243,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,5,243.047,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,6,399.628,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,7,426.982,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,8,235.205,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,9,217.996,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,10,190.005,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,11,212.736,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2013,12,353.011,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,1,215.362,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,2,149.227,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,3,188.636,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,4,190.503,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,5,339.518,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,6,617.127,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,7,306.941,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,8,303.924,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,9,301.472,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,10,268.728,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,11,291.477,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2014,12,584.749,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,1,311.161,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,2,235.235,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,3,260.304,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,4,295.424,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,5,355.234,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,6,619.191,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,7,390.35,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,8,268.563,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,9,238.107,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,10,248.34,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,11,247.424,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2015,12,500.195,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,1,274.321,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,2,248.549,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,3,243.544,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,4,268.02,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,5,313.708,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,6,644.292,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,7,452.202,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,8,309.479,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,9,283.966,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,10,272.394,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,11,273.558,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2016,12,529.356,Bluefin Tuna,Fresh,Japanese Fleet,Quantity
+2003,1,3480.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,2,2961.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,3,3156.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,4,4168.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,5,3158.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,6,2489.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,7,2285.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,8,2481.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,9,3506.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,10,3513.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,11,3930.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,12,4407.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,1,4835.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,2,4328.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,3,4144.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,4,3808.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,5,3224.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,6,2098.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,7,1590.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,8,2422.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,9,3440.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,10,3468.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,11,3963.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2004,12,4234.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,1,4430.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,2,4239.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,3,4343.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,4,3532.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,5,2643.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,6,1811.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,7,1711.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,8,2761.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,9,2966.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,10,3741.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,11,3502.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2005,12,5137.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,1,4766.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,2,4362.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,3,4484.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,4,4186.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,5,3439.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,6,2603.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,7,1982.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,8,2792.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,9,3404.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,10,3835.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,11,4526.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2006,12,5129.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,1,4558.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,2,4349.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,3,4823.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,4,4002.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,5,2974.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,6,2195.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,7,1966.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,8,3176.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,9,3460.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,10,3622.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,11,4082.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2007,12,4652.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,1,4621.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,2,4252.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,3,4039.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,4,3560.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,5,3281.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,6,1955.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,7,2171.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,8,3544.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,9,4267.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,10,4183.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,11,3945.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2008,12,4502.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,1,4141.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,2,3794.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,3,3409.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,4,3806.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,5,3073.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,6,2304.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,7,2085.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,8,2148.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,9,2937.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,10,3227.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,11,3856.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2009,12,3721.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,1,3315.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,2,2800.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,3,2784.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,4,3042.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,5,2742.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,6,2126.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,7,2624.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,8,3237.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,9,3461.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,10,3469.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,11,3834.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2010,12,4002.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,1,4043.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,2,3525.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,3,3551.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,4,3676.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,5,3089.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,6,2067.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,7,2113.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,8,2816.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,9,3409.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,10,3846.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,11,3984.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2011,12,4337.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,1,4332.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,2,3658.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,3,3752.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,4,3991.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,5,3353.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,6,2799.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,7,2635.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,8,3147.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,9,3325.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,10,3479.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,11,3772.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2012,12,4401.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,1,5077.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,2,4040.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,3,3846.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,4,3925.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,5,3093.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,6,2258.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,7,2005.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,8,3170.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,9,3555.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,10,3772.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,11,3903.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2013,12,4140.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,1,4319.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,2,3718.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,3,3447.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,4,3836.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,5,2982.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,6,1856.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,7,2714.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,8,3213.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,9,3276.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,10,3524.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,11,3740.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2014,12,3720.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,1,3724.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,2,3693.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,3,3628.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,4,3649.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,5,3266.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,6,2098.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,7,2602.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,8,3444.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,9,3633.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,10,3651.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,11,4081.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2015,12,4105.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,1,4407.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,2,3955.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,3,3775.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,4,3849.077946,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,5,3237.601269,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,6,2104.294759,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,7,2177.529781,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,8,3234.093635,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,9,3434.789383,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,10,3537.157636,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,11,3889.0,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2016,12,3897.530718,Bluefin Tuna,Fresh,Japanese Fleet,Price
+2003,1,181.331,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,2,192.941,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,3,203.901,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,4,130.997,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,5,98.673,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,6,115.039,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,7,53.952,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,8,111.087,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,9,189.545,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,10,326.026,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,11,297.849,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,12,496.377,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,1,327.703,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,2,311.617,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,3,360.009,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,4,151.816,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,5,136.264,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,6,107.161,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,7,25.067,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,8,53.092,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,9,157.518,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,10,257.823,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,11,270.815,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2004,12,408.415,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,1,306.583,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,2,253.241,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,3,319.323,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,4,236.386,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,5,85.19,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,6,78.228,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,7,27.479,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,8,102.471,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,9,122.064,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,10,232.535,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,11,228.048,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2005,12,431.73,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,1,221.486,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,2,180.864,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,3,185.322,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,4,104.937,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,5,91.804,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,6,72.366,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,7,26.155,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,8,91.932,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,9,161.311,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,10,191.586,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,11,195.051,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2006,12,304.053,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,1,150.634,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,2,132.093,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,3,163.53,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,4,125.895,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,5,100.154,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,6,93.044,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,7,24.172,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,8,20.475,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,9,45.845,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,10,118.75,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,11,84.695,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2007,12,208.026,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,1,123.021,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,2,94.574,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,3,109.909,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,4,74.485,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,5,23.587,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,6,16.446,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,7,11.318,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,8,43.879,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,9,61.028,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,10,115.788,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,11,168.534,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2008,12,276.482,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,1,199.459,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,2,158.595,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,3,170.802,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,4,134.143,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,5,95.861,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,6,34.192,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,7,35.472,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,8,80.658,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,9,133.394,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,10,202.731,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,11,195.226,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2009,12,268.658,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,1,135.692,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,2,89.496,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,3,122.625,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,4,65.479,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,5,70.822,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,6,31.994,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,7,26.218,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,8,41.543,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,9,128.343,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,10,156.145,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,11,89.553,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2010,12,122.241,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,1,82.09,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,2,64.727,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,3,43.58,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,4,42.344,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,5,34.008,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,6,22.278,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,7,41.895,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,8,64.555,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,9,168.529,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,10,124.963,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,11,58.504,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2011,12,65.187,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,1,62.259,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,2,37.698,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,3,74.727,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,4,32.638,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,5,49.767,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,6,31.908,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,7,40.85,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,8,55.838,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,9,102.584,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,10,111.616,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,11,87.363,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2012,12,105.028,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,1,98.945,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,2,121.753,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,3,164.386,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,4,147.897,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,5,112.719,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,6,33.713,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,7,29.505,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,8,72.278,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,9,108.389,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,10,131.549,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,11,91.91,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2013,12,127.407,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,1,71.296,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,2,91.25,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,3,138.715,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,4,91.602,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,5,102.347,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,6,29.124,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,7,40.113,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,8,56.323,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,9,96.182,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,10,123.41,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,11,83.197,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2014,12,118.046,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,1,54.57,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,2,67.715,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,3,114.953,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,4,104.841,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,5,81.468,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,6,55.897,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,7,92.843,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,8,96.446,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,9,194.173,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,10,214.152,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,11,166.551,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2015,12,194.521,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,1,114.351,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,2,123.679,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,3,174.349,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,4,161.29,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,5,129.447,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,6,65.954,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,7,94.26,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,8,92.08,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,9,197.525,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,10,212.826,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,11,131.663,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2016,12,134.833,Bluefin Tuna,Fresh,Foreign Fleet,Quantity
+2003,1,3607.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,2,3465.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,3,3776.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,4,3244.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,5,2666.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,6,3693.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,7,4067.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,8,3439.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,9,2473.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,10,2401.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,11,2463.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,12,2535.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,1,2602.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,2,2792.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,3,2934.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,4,3429.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,5,3061.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,6,2907.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,7,3086.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,8,2725.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,9,3215.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,10,2530.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,11,2586.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2004,12,2830.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,1,2665.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,2,2941.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,3,2694.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,4,2568.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,5,2820.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,6,3029.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,7,2773.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,8,2417.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,9,2765.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,10,2852.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,11,2657.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2005,12,2858.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,1,3105.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,2,3351.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,3,3850.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,4,3803.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,5,3186.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,6,2954.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,7,2094.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,8,2607.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,9,2434.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,10,2544.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,11,2774.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2006,12,2973.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,1,3197.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,2,3247.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,3,3449.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,4,3442.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,5,3014.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,6,3113.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,7,1966.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,8,3204.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,9,3457.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,10,3709.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,11,3271.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2007,12,3156.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,1,3613.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,2,3680.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,3,3451.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,4,2830.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,5,2851.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,6,2946.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,7,3494.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,8,3627.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,9,3082.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,10,3063.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,11,2303.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2008,12,2122.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,1,2440.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,2,2355.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,3,2288.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,4,2421.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,5,2303.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,6,2626.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,7,2799.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,8,1965.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,9,2092.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,10,2504.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,11,2154.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2009,12,2150.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,1,2079.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,2,2282.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,3,2546.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,4,2945.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,5,2620.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,6,2467.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,7,3615.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,8,3602.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,9,2840.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,10,2698.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,11,2971.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2010,12,2853.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,1,2634.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,2,2620.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,3,2896.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,4,3377.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,5,3145.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,6,2893.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,7,3513.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,8,3305.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,9,3228.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,10,3495.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,11,3566.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2011,12,3560.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,1,3488.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,2,3355.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,3,3717.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,4,3761.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,5,2947.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,6,3207.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,7,3991.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,8,3740.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,9,3365.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,10,3562.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,11,3357.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2012,12,3044.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,1,2764.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,2,2361.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,3,2545.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,4,2781.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,5,2587.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,6,2833.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,7,3160.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,8,2884.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,9,2994.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,10,3074.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,11,2724.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2013,12,2665.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,1,2525.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,2,2635.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,3,2755.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,4,2698.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,5,2205.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,6,2710.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,7,2776.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,8,3177.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,9,3496.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,10,3361.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,11,3119.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2014,12,2779.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,1,2558.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,2,2505.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,3,2798.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,4,2648.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,5,2508.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,6,2411.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,7,2653.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,8,3015.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,9,2953.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,10,2907.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,11,2725.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2015,12,2208.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,1,2279.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,2,2434.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,3,2523.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,4,2536.493,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,5,2303.051581,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,6,2093.861752,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,7,2608.238999,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,8,2625.420645,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,9,2713.995277,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,10,2928.030086,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,11,2990.0,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2016,12,2620.679656,Bluefin Tuna,Fresh,Foreign Fleet,Price
+2003,1,480.357,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,2,421.616,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,3,489.329,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,4,517.557,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,5,520.588,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,6,531.172,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,7,650.098,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,8,531.898,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,9,561.98,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,10,600.222,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,11,529.721,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,12,906.455,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,1,405.542,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,2,388.803,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,3,469.869,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,4,570.407,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,5,575.602,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,6,522.013,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,7,617.166,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,8,558.803,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,9,596.547,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,10,597.806,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,11,611.124,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,12,857.471,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,1,403.395,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,2,422.317,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,3,595.69,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,4,559.585,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,5,567.316,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,6,529.048,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,7,560.813,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,8,582.266,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,9,576.487,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,10,606.128,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,11,623.685,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,12,919.897,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,1,440.131,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,2,434.958,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,3,609.117,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,4,631.427,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,5,518.574,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,6,536.301,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,7,530.454,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,8,478.044,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,9,432.782,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,10,455.635,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,11,543.142,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,12,910.572,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,1,433.858,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,2,448.236,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,3,589.101,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,4,467.304,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,5,546.391,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,6,399.068,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,7,413.539,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,8,400.021,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,9,345.613,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,10,429.561,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,11,379.236,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,12,577.284,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,1,319.781,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,2,342.312,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,3,349.649,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,4,385.328,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,5,341.917,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,6,278.453,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,7,323.901,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,8,317.187,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,9,355.869,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,10,294.438,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,11,313.565,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,12,114.983,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,1,355.689,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,2,367.993,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,3,408.015,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,4,431.406,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,5,380.661,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,6,338.501,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,7,410.319,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,8,343.424,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,9,316.179,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,10,345.303,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,11,355.689,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,12,553.319,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,1,271.497,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,2,359.863,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,3,352.065,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,4,348.359,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,5,317.984,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,6,334.766,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,7,329.38,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,8,330.858,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,9,355.57,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,10,318.792,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,11,329.102,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,12,473.257,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,1,242.636,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,2,234.2,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,3,247.238,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,4,385.203,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,5,368.397,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,6,374.908,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,7,301.036,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,8,294.695,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,9,284.173,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,10,273.147,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,11,300.409,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,12,430.833,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,1,187.924,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,2,208.398,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,3,282.002,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,4,305.286,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,5,268.86,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,6,242.303,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,7,263.717,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,8,251.732,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,9,241.725,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,10,244.513,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,11,249.384,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,12,490.693,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,1,197.583,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,2,240.795,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,3,389.826,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,4,339.972,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,5,230.652,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,6,248.529,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,7,329.705,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,8,287.554,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,9,262.221,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,10,271.99,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,11,255.792,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,12,420.428,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,1,181.646,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,2,264.723,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,3,331.629,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,4,334.234,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,5,258.067,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,6,433.451,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,7,331.67,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,8,257.921,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,9,206.859,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,10,248.747,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,11,200.552,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,12,449.667,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,1,235.853,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,2,211.289,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,3,241.188,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,4,333.88,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,5,264.777,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,6,359.675,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,7,317.659,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,8,238.104,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,9,244.493,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,10,267.901,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,11,234.172,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,12,370.328,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,1,186.619,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,2,181.792,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,3,228.905,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,4,262.759,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,5,213.245,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,6,377.293,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,7,303.394,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,8,291.17,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,9,254.098,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,10,230.548,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,11,254.911,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,12,497.325,Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,1,2532.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,2,2544.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,3,2851.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,4,2807.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,5,2707.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,6,2803.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,7,2600.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,8,2676.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,9,2470.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,10,2369.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,11,2663.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,12,2733.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,1,3044.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,2,2873.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,3,2896.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,4,2769.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,5,2604.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,6,2639.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,7,2704.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,8,2631.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,9,2453.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,10,2400.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,11,2490.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,12,2654.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,1,2633.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,2,2589.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,3,2672.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,4,2760.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,5,2580.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,6,2659.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,7,2728.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,8,2751.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,9,2588.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,10,2483.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,11,2505.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,12,2716.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,1,2557.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,2,2744.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,3,3019.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,4,2971.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,5,3085.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,6,3106.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,7,3149.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,8,3175.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,9,3192.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,10,3259.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,11,3127.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,12,3213.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,1,3101.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,2,3278.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,3,3223.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,4,3462.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,5,3518.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,6,3461.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,7,3723.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,8,3801.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,9,3813.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,10,3799.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,11,3935.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,12,3862.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,1,3872.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,2,3976.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,3,3832.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,4,3842.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,5,4112.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,6,4090.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,7,4040.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,8,4162.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,9,3895.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,10,3806.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,11,3879.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,12,3721.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,1,3531.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,2,3307.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,3,3356.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,4,3492.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,5,3691.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,6,3722.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,7,3462.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,8,3263.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,9,2993.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,10,2846.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,11,2895.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,12,2905.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,1,2837.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,2,2825.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,3,3020.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,4,2986.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,5,3086.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,6,2941.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,7,3136.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,8,3139.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,9,3106.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,10,3182.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,11,3247.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,12,3391.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,1,3338.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,2,3425.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,3,3493.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,4,3571.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,5,3533.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,6,3246.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,7,3404.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,8,3779.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,9,3683.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,10,3797.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,11,3674.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,12,3867.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,1,3960.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,2,3889.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,3,3915.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,4,4023.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,5,4011.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,6,3767.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,7,3839.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,8,3935.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,9,3808.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,10,3805.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,11,3713.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,12,3754.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,1,3765.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,2,3496.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,3,3448.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,4,3494.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,5,3772.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,6,3521.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,7,3278.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,8,3757.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,9,3883.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,10,3848.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,11,3879.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,12,3914.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,1,3922.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,2,3788.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,3,3578.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,4,3894.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,5,4007.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,6,2816.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,7,3684.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,8,4028.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,9,4123.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,10,4047.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,11,4097.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,12,3932.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,1,4044.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,2,4065.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,3,4093.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,4,3962.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,5,3953.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,6,3085.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,7,3474.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,8,3933.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,9,3859.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,10,3795.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,11,3857.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,12,3930.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,1,3940.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,2,3771.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,3,3674.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,4,3629.868199,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,5,3490.060888,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,6,2821.932978,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,7,3033.33939,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,8,3366.971711,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,9,3356.525872,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,10,3491.414222,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,11,3447.0,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,12,3412.530723,Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,1,0.552,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,2,0.479,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,3,1.389,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,4,45.502,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,5,92.798,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,6,132.995,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,7,186.535,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,8,165.493,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,9,139.209,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,10,75.975,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,11,1.276,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,12,9.724,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,1,1.453,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,2,0.3,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,3,22.212,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,4,100.458,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,5,125.376,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,6,137.578,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,7,218.286,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,8,156.003,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,9,27.073,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,10,0.475,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,11,0.365,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2004,12,2.919,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,1,0.436,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,2,1.934,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,3,2.172,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,4,44.26,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,5,66.723,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,6,104.275,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,7,172.424,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,8,146.926,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,9,120.82,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,10,11.411,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,11,1.095,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2005,12,0.3,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,1,0.133,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,2,0.298,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,3,20.421,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,4,58.447,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,5,66.62,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,6,94.912,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,7,115.448,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,8,85.165,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,9,34.669,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,10,10.875,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,11,0.3,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2006,12,0.3,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,1,0.3,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,2,0.061,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,3,8.51,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,4,10.086,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,5,15.052,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,6,23.796,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,7,138.627,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,8,121.962,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,9,89.162,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,10,46.668,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,11,0.021,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2007,12,0.236,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,1,0.279,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,2,2.815,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,3,2.815,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,4,34.88,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,5,58.729,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,6,70.717,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,7,93.921,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,8,72.219,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,9,60.104,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,10,16.016,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,11,0.035,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2008,12,0.125,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,1,0.159,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,2,1.572,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,3,17.257,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,4,77.301,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,5,144.105,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,6,184.995,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,7,292.377,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,8,207.834,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,9,143.681,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,10,29.31,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,11,0.038,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2009,12,0.153,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,1,1.623,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,2,2.723,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,3,10.558,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,4,46.931,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,5,68.487,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,6,87.201,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,7,159.056,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,8,118.839,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,9,94.76,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,10,42.634,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,11,0.791,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2010,12,0.709,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,1,1.013,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,2,2.908,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,3,8.945,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,4,8.217,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,5,36.66,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,6,98.379,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,7,97.457,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,8,59.506,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,9,2.681,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,10,6.533,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,11,1.813,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2011,12,6.26,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,1,2.704,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,2,3.653,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,3,8.193,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,4,40.481,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,5,62.023,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,6,82.385,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,7,85.416,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,8,55.053,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,9,41.658,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,10,35.338,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,11,7.793,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2012,12,4.701,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,1,1.87,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,2,4.091,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,3,14.252,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,4,39.131,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,5,73.079,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,6,99.908,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,7,176.16,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,8,100.382,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,9,13.295,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,10,0.691,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,11,1.211,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2013,12,1.621,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,1,1.47,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,2,7.135,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,3,7.105,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,4,23.294,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,5,33.002,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,6,92.636,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,7,166.767,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,8,95.449,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,9,3.451,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,10,0.003,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,11,0.587,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2014,12,0.363,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,1,1.466,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,2,5.425,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,3,10.934,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,4,29.809,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,5,44.447,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,6,102.867,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,7,195.638,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,8,123.529,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,9,14.435,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,10,1.994,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,11,0.596,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2015,12,0.238,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,1,0.749,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,2,1.878,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,3,13.302,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,4,55.103,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,5,82.842,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,6,122.857,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,7,192.084,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,8,96.163,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,9,29.194,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,10,0.792,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,11,0.149,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2016,12,0.608,Southern Bluefin Tuna,Fresh,Unknown Fleet,Quantity
+2003,1,1757.876812,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,2,1905.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,3,2998.964003,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,4,2878.081821,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,5,2729.189002,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,6,2999.528291,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,7,2555.681234,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,8,2203.110893,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,9,1994.998506,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,10,2050.566594,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,11,2500.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,12,2400.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,1,2400.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,2,2000.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,3,1779.486269,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,4,1965.537717,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,5,1942.893281,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,6,2474.479292,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,7,2271.059463,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,8,2086.273155,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,9,2468.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,10,1947.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,11,519.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2004,12,1360.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,1,1552.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,2,1713.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,3,1709.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,4,1859.635156,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,5,2151.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,6,2162.082858,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,7,2225.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,8,2085.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,9,1962.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,10,2320.652441,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,11,818.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2005,12,1300.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,1,1535.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,2,1264.661074,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,3,2661.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,4,2420.166715,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,5,2411.431102,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,6,2390.955885,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,7,2872.658859,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,8,2572.390653,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,9,2510.360495,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,10,2671.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,11,2000.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2006,12,2000.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,1,2000.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,2,2171.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,3,2048.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,4,2421.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,5,2633.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,6,2874.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,7,3055.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,8,2680.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,9,2430.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,10,2219.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,11,2835.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2007,12,3882.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,1,2152.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,2,2764.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,3,2817.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,4,2560.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,5,2544.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,6,2556.057454,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,7,2936.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,8,2626.870034,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,9,2607.795654,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,10,2584.498501,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,11,2196.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2008,12,3272.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,1,1976.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,2,1681.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,3,1508.133859,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,4,1564.9433,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,5,1558.401353,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,6,1797.121138,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,7,1775.343734,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,8,1659.763099,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,9,1707.621864,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,10,1776.618219,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,11,1870.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2009,12,1866.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,1,983.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,2,2110.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,3,1832.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,4,1989.204854,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,5,2152.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,6,2191.437644,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,7,2459.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,8,2329.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,9,1964.155762,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,10,1766.5801,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,11,2569.466498,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2010,12,2254.519041,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,1,1552.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,2,1484.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,3,1628.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,4,1583.210052,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,5,2361.572422,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,6,2407.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,7,2608.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,8,2487.963163,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,9,1964.54793,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,10,1697.042094,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,11,1950.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2011,12,2628.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,1,2182.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,2,2315.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,3,2957.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,4,3040.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,5,2599.318672,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,6,2678.671906,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,7,2545.759951,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,8,2509.064084,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,9,2264.575016,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,10,2113.062284,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,11,2232.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2012,12,2698.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,1,3242.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,2,2487.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,3,2270.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,4,2249.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,5,2133.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,6,2045.44518,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,7,2168.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,8,2339.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,9,2351.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,10,3326.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,11,2468.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2013,12,3433.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,1,2773.156463,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,2,1533.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,3,2035.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,4,2309.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,5,2226.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,6,2185.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,7,2282.081587,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,8,2499.020597,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,9,2198.816575,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,10,3602.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,11,797.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2014,12,2242.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,1,1948.644611,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,2,2236.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,3,2587.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,4,2368.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,5,2056.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,6,2144.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,7,2256.164528,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,8,2342.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,9,2185.001732,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,10,1988.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,11,1191.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2015,12,3348.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,1,1977.100134,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,2,2206.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,3,1504.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,4,1844.797162,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,5,2037.304061,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,6,1768.271641,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,7,1958.3925,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,8,2138.846531,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,9,1918.171165,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,10,1927.690657,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,11,4095.0,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2016,12,2998.455592,Southern Bluefin Tuna,Fresh,Unknown Fleet,Price
+2003,1,822.678,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,2,787.446,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,3,966.45,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,4,959.563,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,5,851.1,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,6,723.582,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,7,739.618,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,8,677.879,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,9,737.16,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,10,726.781,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,11,768.894,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,12,1207.033,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,1,668.352,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,2,684.619,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,3,873.719,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,4,903.044,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,5,656.553,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,6,601.49,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,7,659.042,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,8,677.212,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,9,635.107,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,10,693.677,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,11,602.947,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2004,12,948.165,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,1,526.873,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,2,571.228,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,3,853.726,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,4,728.517,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,5,658.539,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,6,575.691,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,7,564.051,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,8,530.186,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,9,517.801,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,10,555.15,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,11,642.278,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2005,12,927.761,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,1,528.572,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,2,567.579,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,3,741.133,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,4,609.888,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,5,520.879,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,6,567.814,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,7,537.373,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,8,498.473,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,9,519.853,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,10,491.486,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,11,496.531,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2006,12,642.703,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,1,357.285,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,2,374.599,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,3,520.525,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,4,429.366,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,5,410.647,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,6,326.365,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,7,336.976,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,8,360.748,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,9,298.079,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,10,307.934,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,11,328.27,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2007,12,491.976,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,1,244.555,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,2,288.213,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,3,356.05,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,4,313.287,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,5,274.018,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,6,247.14,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,7,309.239,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,8,267.287,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,9,353.306,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,10,388.32,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,11,341.995,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2008,12,590.326,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,1,295.519,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,2,323.588,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,3,369.157,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,4,368.264,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,5,325.428,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,6,334.672,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,7,312.784,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,8,285.611,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,9,286.696,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,10,351.924,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,11,365.521,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2009,12,514.805,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,1,254.101,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,2,275.146,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,3,339.836,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,4,342.777,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,5,281.302,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,6,307.905,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,7,277.306,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,8,268.152,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,9,305.603,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,10,304.058,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,11,339.598,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2010,12,503.1,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,1,235.203,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,2,231.915,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,3,254.891,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,4,263.041,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,5,201.779,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,6,202.771,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,7,199.231,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,8,233.06,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,9,184.986,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,10,270.702,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,11,245.349,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2011,12,391.985,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,1,199.381,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,2,214.297,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,3,278.424,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,4,257.572,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,5,231.002,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,6,199.048,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,7,222.388,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,8,241.131,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,9,222.836,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,10,238.175,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,11,223.384,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2012,12,392.754,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,1,208.13,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,2,193.678,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,3,316.169,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,4,263.568,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,5,263.507,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,6,239.602,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,7,273.67,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,8,236.953,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,9,271.539,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,10,234.596,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,11,275.808,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2013,12,401.709,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,1,213.307,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,2,223.749,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,3,297.593,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,4,250.248,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,5,237.207,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,6,221.639,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,7,228.866,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,8,268.452,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,9,278.767,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,10,316.712,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,11,315.749,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2014,12,502.659,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,1,239.531,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,2,271.255,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,3,458.836,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,4,285.149,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,5,264.286,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,6,279.719,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,7,243.712,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,8,307.711,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,9,303.692,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,10,413.585,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,11,351.884,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2015,12,564.599,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,1,301.908,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,2,327.947,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,3,309.22,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,4,292.618,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,5,251.099,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,6,281.362,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,7,285.831,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,8,365.831,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,9,544.711,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,10,459.106,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,11,444.737,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2016,12,537.887,Southern Bluefin Tuna,Frozen,Unknown Fleet,Quantity
+2003,1,1899.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,2,1777.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,3,1854.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,4,1966.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,5,2015.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,6,2179.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,7,2307.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,8,2225.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,9,2071.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,10,1947.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,11,2008.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,12,2077.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,1,1860.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,2,1863.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,3,1847.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,4,1948.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,5,2009.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,6,2044.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,7,2103.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,8,2132.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,9,2160.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,10,2160.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,11,2143.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2004,12,2117.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,1,1981.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,2,1817.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,3,1759.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,4,1914.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,5,1954.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,6,1994.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,7,2131.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,8,2111.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,9,2127.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,10,2026.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,11,1872.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2005,12,1985.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,1,1723.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,2,1740.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,3,1817.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,4,1954.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,5,2062.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,6,2157.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,7,2214.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,8,2270.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,9,2174.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,10,2240.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,11,2222.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2006,12,2387.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,1,2360.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,2,2324.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,3,2312.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,4,2462.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,5,2537.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,6,2721.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,7,2676.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,8,2728.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,9,2960.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,10,3004.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,11,2997.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2007,12,2963.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,1,2921.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,2,2749.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,3,2681.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,4,2825.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,5,2937.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,6,2931.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,7,2801.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,8,2851.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,9,2658.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,10,2365.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,11,2202.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2008,12,2172.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,1,2206.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,2,2024.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,3,2106.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,4,2051.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,5,2114.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,6,2006.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,7,2084.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,8,2092.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,9,1991.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,10,1875.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,11,1768.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2009,12,1890.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,1,1994.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,2,1882.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,3,1861.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,4,1945.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,5,1963.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,6,1887.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,7,2079.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,8,2076.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,9,2108.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,10,1963.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,11,1941.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2010,12,2040.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,1,2108.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,2,2114.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,3,2172.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,4,2255.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,5,2389.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,6,2475.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,7,2554.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,8,2616.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,9,2734.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,10,2548.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,11,2383.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2011,12,2454.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,1,2500.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,2,2358.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,3,2430.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,4,2434.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,5,2487.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,6,2629.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,7,2551.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,8,2581.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,9,2470.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,10,2395.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,11,2391.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2012,12,2215.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,1,2172.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,2,2214.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,3,2065.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,4,2160.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,5,2135.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,6,2183.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,7,2149.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,8,2148.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,9,2059.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,10,2063.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,11,2011.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2013,12,2090.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,1,2015.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,2,1937.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,3,2006.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,4,2136.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,5,2271.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,6,2235.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,7,2251.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,8,2242.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,9,2168.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,10,2122.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,11,2056.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2014,12,2059.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,1,2172.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,2,2159.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,3,2020.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,4,2178.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,5,2201.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,6,2121.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,7,2235.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,8,2100.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,9,2184.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,10,1951.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,11,2043.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2015,12,2011.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,1,2044.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,2,1991.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,3,2054.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,4,2138.289746,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,5,2146.840083,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,6,2094.428281,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,7,2122.761614,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,8,2028.3269,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,9,2099.940609,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,10,1903.536702,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,11,1926.0,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2016,12,2019.267478,Southern Bluefin Tuna,Frozen,Unknown Fleet,Price
+2003,1,285.354,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,2,271.316,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,3,297.458,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,4,309.532,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,5,327.842,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,6,316.007,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,7,280.377,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,8,289.455,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,9,412.948,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,10,296.843,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,11,309.15,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,12,353.092,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,1,259.31,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,2,239.323,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,3,267.215,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,4,272.95,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,5,233.441,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,6,314.98,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,7,236.764,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,8,213.333,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,9,255.209,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,10,327.786,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,11,382.115,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2004,12,379.818,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,1,238.041,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,2,229.864,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,3,254.471,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,4,271.792,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,5,248.061,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,6,190.033,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,7,180.268,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,8,220.95,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,9,266.046,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,10,358.15,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,11,337.993,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2005,12,339.368,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,1,213.349,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,2,218.653,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,3,267.999,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,4,251.365,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,5,317.37,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,6,310.673,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,7,274.945,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,8,279.983,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,9,324.945,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,10,292.538,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,11,373.399,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2006,12,395.963,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,1,259.863,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,2,252.571,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,3,289.06,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,4,362.83,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,5,609.485,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,6,308.249,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,7,246.631,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,8,370.792,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,9,312.552,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,10,481.062,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,11,480.278,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2007,12,386.727,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,1,235.559,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,2,219.111,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,3,254.357,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,4,267.38,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,5,280.67,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,6,170.742,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,7,268.715,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,8,208.08,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,9,281.418,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,10,355.216,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,11,333.712,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2008,12,342.455,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,1,222.917,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,2,202.399,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,3,245.349,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,4,240.749,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,5,200.322,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,6,208.824,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,7,194.624,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,8,151.158,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,9,176.098,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,10,309.422,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,11,381.89,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2009,12,314.394,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,1,195.354,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,2,187.905,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,3,156.912,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,4,152.747,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,5,121.968,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,6,176.303,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,7,163.893,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,8,130.086,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,9,194.147,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,10,343.4,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,11,339.653,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2010,12,275.998,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,1,160.478,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,2,142.492,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,3,176.94,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,4,191.933,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,5,176.068,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,6,168.544,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,7,231.928,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,8,194.783,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,9,177.583,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,10,410.406,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,11,362.569,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2011,12,282.961,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,1,190.728,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,2,162.227,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,3,181.993,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,4,154.215,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,5,220.394,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,6,257.791,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,7,228.471,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,8,159.738,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,9,141.628,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,10,243.225,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,11,325.895,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2012,12,267.798,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,1,163.732,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,2,121.067,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,3,113.896,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,4,110.537,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,5,182.44,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,6,124.613,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,7,102.789,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,8,95.94,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,9,122.132,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,10,197.551,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,11,262.105,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2013,12,182.913,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,1,101.176,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,2,72.275,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,3,77.689,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,4,100.452,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,5,87.098,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,6,106.702,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,7,106.56,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,8,71.507,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,9,151.635,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,10,179.848,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,11,181.374,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2014,12,136.32,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,1,86.618,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,2,67.276,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,3,78.605,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,4,94.272,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,5,103.18,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,6,66.7,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,7,59.209,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,8,77.36,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,9,125.739,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,10,154.389,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,11,154.528,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2015,12,123.815,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,1,106.199,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,2,81.294,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,3,75.858,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,4,86.986,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,5,76.317,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,6,58.98,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,7,55.096,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,8,56.966,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,9,91.169,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,10,108.637,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,11,134.605,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2016,12,125.093,Bigeye Tuna,Fresh,Unknown Fleet,Quantity
+2003,1,1561.149362,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,2,1507.934269,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,3,1606.979876,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,4,1422.280527,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,5,1356.259482,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,6,1389.583516,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,7,1546.613146,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,8,1458.856123,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,9,1207.028856,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,10,1593.600823,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,11,1587.266188,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2003,12,1770.608725,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,1,1517.13539,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,2,1528.120448,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,3,1562.044526,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,4,1392.559443,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,5,1566.870888,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,6,1069.43232,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,7,1391.583585,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,8,1543.829768,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,9,1720.972959,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,10,1608.933463,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,11,1532.96147,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2004,12,1678.658047,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,1,1374.83426,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,2,1425.474942,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,3,1536.866979,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,4,1441.045962,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,5,1319.921382,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,6,1361.038441,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,7,1513.322187,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,8,1478.784168,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,9,1385.294859,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,10,1507.194234,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,11,1588.405908,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2005,12,1910.557118,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,1,1655.943407,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,2,1662.991283,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,3,1600.147627,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,4,1573.486607,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,5,1194.227246,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,6,1215.170935,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,7,1243.774126,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,8,1391.974645,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,9,1495.737623,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,10,1905.154592,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,11,1667.88046,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2006,12,1778.622758,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,1,1707.864159,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,2,1628.568953,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,3,1829.512067,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,4,1384.541598,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,5,868.8945799,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,6,1082.120062,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,7,1344.42877,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,8,1274.184025,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,9,1646.781371,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,10,1692.591581,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,11,1707.25632,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2007,12,1855.495008,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,1,1705.058563,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,2,1762.988672,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,3,1698.69373,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,4,1616.418715,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,5,1507.471336,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,6,1515.277729,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,7,1462.095157,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,8,1595.427624,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,9,1825.010014,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,10,1944.859097,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,11,1701.521845,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2008,12,1820.820794,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,1,1581.186464,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,2,1570.697859,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,3,1440.687873,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,4,2321.0,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,5,1593.054912,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,6,1335.185175,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,7,1409.516771,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,8,1727.794169,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,9,1780.469716,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,10,1718.382177,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,11,1442.818587,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2009,12,1780.386267,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,1,1489.619829,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,2,1430.533206,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,3,1845.96737,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,4,1711.889176,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,5,1582.244589,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,6,1129.848982,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,7,1299.212004,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,8,1658.475885,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,9,1790.469325,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,10,1571.869936,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,11,1648.397223,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2010,12,1807.680817,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,1,1637.454822,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,2,1775.571822,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,3,1478.936114,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,4,1464.623509,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,5,1348.175245,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,6,1092.528159,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,7,1105.878329,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,8,1566.279732,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,9,1702.390764,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,10,1596.944245,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,11,1646.437765,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2011,12,1869.914034,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,1,1587.387316,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,2,1627.511795,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,3,1666.52674,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,4,1631.135882,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,5,1222.615906,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,6,1059.825017,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,7,1118.219621,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,8,1585.706469,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,9,1848.810009,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,10,1822.391189,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,11,1693.957345,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2012,12,2407.0,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,1,1536.263895,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,2,1518.540246,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,3,1628.375149,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,4,1498.437229,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,5,1036.398158,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,6,1132.256009,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,7,1322.609929,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,8,1710.850188,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,9,1759.887523,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,10,1837.066216,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,11,1701.678888,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2013,12,2119.762275,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,1,1925.732427,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,2,2051.817433,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,3,2115.251335,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,4,1878.766247,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,5,1542.7774,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,6,1032.64638,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,7,1194.33216,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,8,2055.665292,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,9,1859.860461,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,10,2005.492193,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,11,1854.382061,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2014,12,2364.38929,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,1,2033.012584,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,2,2147.595205,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,3,2335.882514,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,4,2010.739053,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,5,1473.931479,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,6,1607.486117,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,7,1718.076728,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,8,1899.361039,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,9,1923.077947,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,10,2011.74583,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,11,2009.568855,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2015,12,2272.538424,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,1,2216.03758,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,2,2275.575024,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,3,2203.211698,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,4,2029.533097,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,5,1696.36254,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,6,1427.143828,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,7,1731.258149,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,8,1933.678387,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,9,2002.160164,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,10,2144.286587,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,11,1895.458282,Bigeye Tuna,Fresh,Unknown Fleet,Price
+2016,12,2337.426147,Bigeye Tuna,Fresh,Unknown Fleet,Price
